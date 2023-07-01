@@ -1,0 +1,40 @@
+body{
+    font-family: 'Yeon Sung';
+    background-color: cyan;
+}
+
+.header_div
+{
+    background-color: blue;
+    color: aqua;
+}
+
+.header_div p
+{
+    font-family: cursive;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    background-color: darkcyan;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+}
